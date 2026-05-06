@@ -21,7 +21,18 @@ travelling (fish-shaped) home before being eaten themselves by the
 - Exploding a bomb will banish any Kulls adjacent to you into the central
   Kull Banishment Room. Kulls are able to leave the room whenever the
   door is open.
+- If a moving-wall *treads* on a player then that player dies.
 - A telephone-looking object is a teleport.
+
+---
+
+## This Kulls repository
+
+Look in the *vice-vic20* folder for the Kulls game which is playable
+using the VICE VIC-20 emulator on Linux or Windows platforms.
+
+The version of the code in the *noemu-vic20* folder is not playable
+without modification and is included for reference only.
 
 ---
 
@@ -47,4 +58,5 @@ Kulls was:
 - Transformed from a paper printout into a digital format then configured
   for the VICE emulator by MJ in April 2026.
 - Released by me (grantj-re3) with the kind permission of Kull in May 2026.
+- Many thanks to Kull and MJ for making this software available.
 

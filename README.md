@@ -40,6 +40,8 @@ without modification and is included for reference only.
 
 Copyright 2026 Kull
 
+GPLv3
+
 Kulls is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 Kulls is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
@@ -58,5 +60,6 @@ Kulls was:
 - Transformed from a paper printout into a digital format then configured
   for the VICE emulator by MJ in April 2026.
 - Released by me (grantj-re3) with the kind permission of Kull in May 2026.
-- Many thanks to Kull and MJ for making this software available.
+
+Many thanks to Kull and MJ for making this software available.
 

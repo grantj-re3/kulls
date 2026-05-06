@@ -33,7 +33,9 @@ In windows, I think the '-keybuf' option uses '\x0a' instead of '\n'.
 
 Write a Windows batch script (makulls.bat) with similar usage to the Linux Makefile.
 
+```
 Prompt> makulls clean    # If you need to remove non-source files
 Prompt> makulls all      # Build: Tokenize the BASIC program & create a disk-image
 Prompt> makulls run      # Run the VICE VIC-20 emulator, initialise it & run Kull
+```
 

@@ -9,7 +9,7 @@ original VIC-20 hardware with:
 This no-emulator version has no keyboard mapping for player movement (but that is
 provided in a separate folder within this repository).
 
-The custom-made RAM and joystick hardware was discarded decades ago and the design
+The custom-made RAM and joystick hardware were discarded decades ago and the design
 details have been lost. Therefore we have not attempted to reverse engineer or
 describe the details within the code.
 

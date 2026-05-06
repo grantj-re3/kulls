@@ -17,8 +17,8 @@ All commands are run as an unprivileged user unless otherwise specified.
 ```
 $ cd /PATH/TO/PARENT/FOLDER
 
-# Alternative to using git below: Browse to the URL below > Code > Download ZIP, then unzip the file
 $ git clone https://github.com/grantj-re3/kulls.git
+# Alternative to using git above: Browse to the URL above > Code > Download ZIP, then unzip the file
 ```
 
 **Install the VICE package**
